@@ -1,6 +1,6 @@
 # ELECTIVE COURSE SELECTOR
 Author: Johan Lindbjerg Skovbæk (s203801), MSc. Design & Innovation
-Contact: johan.skovbaek@gmail.com
+\nContact: johan.skovbaek@gmail.com
 
 © 2025 Johan Lindbjerg Skovbæk. All rights reserved.
 
