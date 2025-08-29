@@ -20,7 +20,7 @@ _____________________________
 - Use a different plot engine than Plotly. There are too many restrictions, trade-offs, complicated work-arounds that involve java-script.
     - Use PowerBI to both scrape and visualize.
 
-- Make applicable for all educations at DTU.
+- Make applicable for all educations and courses at DTU.
     1. Obtain a list of ALL courses taught at DTU (Contact DTU IT Service).
     2. Define relevance of a course for an education to assign it appropriate courses (consider combining a LLM with an API for analyzing the course descriptions).
     3. Run the "Data load.ipynb" script to obtain appropriate values.
