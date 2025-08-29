@@ -13,10 +13,12 @@ In this alpha version, the tool has solely been developed for students at the ma
 
 _____________________________
 ### FURTHER DEVELOPMENT IDEAS
+- Make a legend that allows the user to select/deselect schedule placements
+    - I.e. F5, E1B, E4B
+    - It is usable, when having already chosen a couple of courses.
 
 - Use a different plot engine than Plotly. There are too many restrictions, trade-offs, complicated work-arounds that involve java-script.
-    - It could be that Plotly using Dash is better.
-    - Bokeh is another possibilty.
+    - Use PowerBI to both scrape and visualize.
 
 - Make applicable for all educations at DTU.
     1. Obtain a list of ALL courses taught at DTU (Contact DTU IT Service).
